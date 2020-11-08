@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="./banner" alt="About me" />
 
 <!--
 **Akumzy/Akumzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
