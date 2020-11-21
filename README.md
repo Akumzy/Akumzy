@@ -1,5 +1,5 @@
-<img src="./about.png" alt="About me" />
-<!--
+
+<!--<img src="./about.png" alt="About me" />
 **Akumzy/Akumzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
