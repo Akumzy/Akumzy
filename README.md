@@ -17,7 +17,4 @@ Here are some ideas to get you started:
 -->
 
 I love working with JavaScript/Typescript, Go or any other technology/language that'll help me to execute a given task.
-I'm not shy from asking for help and very open to learn.
-
-
-🔭 I'm currently building <a href="https://uxstoories.com" target="_blank" title="https://uxstoories.com">UX Stoories </a>
+I'm not shy from asking for help and always open to learn.
